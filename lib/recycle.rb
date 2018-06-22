@@ -25,6 +25,7 @@ def address(first_recycle_bin) = {
      "latitude"=>"40.890848989",
      "park_site_name"=>"227th St. Plgd"
 }
+first_recycle_bin
 
 #2. Define a method called `borough` that takes a hash as an argument.
 # This method should return the value of the borough key in the hash.
